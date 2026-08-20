@@ -24,9 +24,10 @@ Java-based AI exploring heuristic decision-making under uncertainty, move evalua
 
 ## 🛠️ Technologies
 
-**Languages:** Java • C++ • Python • JavaScript  
-**Frameworks & Tools:** Spring Boot • JavaFX • Maven • Git  
-**Concepts:** Object-Oriented Programming • Data Structures • Algorithms • AI
+**Languages:** Java • C++ • Python • JavaScript • SQL  
+**Frameworks & Libraries:** Spring Boot • JavaFX  
+**Tools:** Git • Maven • Linux  
+**Core Skills:** REST APIs • Object-Oriented Programming • Data Structures • Algorithms • Debugging
 
 ## 📫 Connect With Me
 

@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Jake 👋
 
-<!--
-**JakeGlover777/JakeGlover777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Java • C++ • Spring Boot
 
-Here are some ideas to get you started:
+MSc Computer Science student with a BSc in Physics, focused on software engineering, backend development, AI and simulation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently building projects that combine software engineering with algorithmic problem-solving, including a real-time traffic simulation engine and a heuristic-based Backgammon AI.
+
+## 🚀 Featured Projects
+
+### 🚦 Traffic Simulation Engine
+Java-based traffic simulation engine featuring real-time JavaFX visualisation, vehicle behaviour modelling and traffic analytics.
+
+**Tech:** Java • JavaFX • Maven • Git
+
+[View Repository](https://github.com/JakeGlover777/Traffic-Simulation-Engine)
+
+### 🎲 Backgammon AI Player
+Java-based AI exploring heuristic decision-making under uncertainty, move evaluation and algorithmic game strategy.
+
+**Tech:** Java • Artificial Intelligence • Algorithms • OOP
+
+[View Repository](https://github.com/JakeGlover777/Backgammon-Ai-player)
+
+## 🛠️ Technologies
+
+**Languages:** Java • C++ • Python • JavaScript  
+**Frameworks & Tools:** Spring Boot • JavaFX • Maven • Git  
+**Concepts:** Object-Oriented Programming • Data Structures • Algorithms • AI
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/jake-glover777/)
+- [Portfolio](https://jakeglover.dev)

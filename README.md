@@ -2,7 +2,7 @@
 
 ### Software Engineer | Java • C++ • Spring Boot
 
-MSc Computer Science student with a BSc in Physics, focused on software engineering, backend development, AI and simulation.
+MSc Computer Science graduate with a BSc in Physics, focused on software engineering, backend development, AI and simulation.
 
 I'm currently building projects that combine software engineering with algorithmic problem-solving, including a real-time traffic simulation engine and a heuristic-based Backgammon AI.
 
